@@ -1,0 +1,9 @@
+https://www.topcoder.com/thrive/articles/text-summarization-in-nlp
+https://towardsdatascience.com/a-better-approach-to-text-summarization-d7139b571439
+https://www.kdnuggets.com/2019/01/approaches-text-summarization-overview.html
+https://www.turing.com/kb/5-powerful-text-summarization-techniques-in-python
+
+
+https://www.kaggle.com/competitions/nlp-getting-started
+https://www.kaggle.com/competitions/jigsaw-unintended-bias-in-toxicity-classification/discussion/91432
+https://neptune.ai/blog/10-nlp-projects
